@@ -34,4 +34,4 @@ The application is fully responsive, adapting to different devices and screen si
 
 For more information about the technologies and tools used, visit:
 
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [React Documentation](https://react.dev/blog/2023/03/16/introducing-react-dev)
